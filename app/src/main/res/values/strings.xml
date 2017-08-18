@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mqtt Demo</string>
+
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="add_server">Add Server</string>
+    <string name="title_activity_controller">Mqtt Demo</string>
+    <string name="title_home">Home</string>
+    <string name="title_devices">Devices</string>
+    <string name="title_groups">Groups</string>
+</resources>
